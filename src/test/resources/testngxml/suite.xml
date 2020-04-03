@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Set">
+
+	<test name="Login into application">
+		<classes>
+			<class
+				name="com.empirix.tests.TC001_LoginIntoApplication" />
+		</classes>
+	</test>
+
+	<test name="Able to switch language">
+		<classes>
+			<class
+				name="com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage" />
+		</classes>
+	</test>
+
+	<test
+		name="Able to access all tabs">
+		<classes>
+			<class
+				name="com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse" />
+		</classes>
+	</test>
+
+	<test name="Verify client details">
+		<classes>
+			<class
+				name="com.empirix.tests.TC004_VerifyClientDetails" />
+		</classes>
+	</test>
+</suite>

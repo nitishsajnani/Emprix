@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="4" failed="6" total="14" passed="4">
   <reporter-output>
     <line>
       <![CDATA[chrome]]>
@@ -23,10 +23,10 @@
       <![CDATA[[Action]:User enters username QA_traininguser15]]>
     </line>
     <line>
-      <![CDATA[User enters password Empirix!]]>
+      <![CDATA[[Action]:User enters password Empirix!]]>
     </line>
     <line>
-      <![CDATA[TEST PASSED: element btn_submit is displayed.]]>
+      <![CDATA[Element btn_submit is displayed.]]>
     </line>
     <line>
       <![CDATA[User clicks on submit button]]>
@@ -44,7 +44,7 @@
       <![CDATA[User clicks on Menu button]]>
     </line>
     <line>
-      <![CDATA[TEST PASSED: element btn_logout is displayed.]]>
+      <![CDATA[Element btn_logout is displayed.]]>
     </line>
     <line>
       <![CDATA[Logout button is present for the user]]>
@@ -52,13 +52,148 @@
     <line>
       <![CDATA[User is successfully login into the application]]>
     </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERSUCCESSFULLYLOGOUTFROMTHEAPPLICATION *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[User gets logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[User is successfully logout from the application]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[The application url is :- https://services.empirix.com/]]>
+    </line>
+    <line>
+      <![CDATA[The test browser is :- chrome]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTSTEP01_USERSUBMITLOGINDETAILS *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[[Action]:User enters username QA_traininguser15]]>
+    </line>
+    <line>
+      <![CDATA[[Action]:User enters password Empirix!]]>
+    </line>
+    <line>
+      <![CDATA[Element btn_submit is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[User clicks on submit button]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERSUCCESSFULLYCHANGELANGUAGETOJAPANESE *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[User clicks on Menu button]]>
+    </line>
+    <line>
+      <![CDATA[[Action]:User selects the language japanese]]>
+    </line>
+    <line>
+      <![CDATA[Alert handled...]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[The application url is :- https://services.empirix.com/]]>
+    </line>
+    <line>
+      <![CDATA[The test browser is :- chrome]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTSTEP01_USERSUBMITLOGINDETAILS *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Save Image File Path : C:\Users\NitishSajnani\Desktop\Emprix\Emprix\./target/screenshots/\TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse\2020_04_03_07_58_PM\TestStep01_UserSubmitLoginDetails.jpg]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERNAVIGATETOALLTABSENGLISH *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Save Image File Path : C:\Users\NitishSajnani\Desktop\Emprix\Emprix\./target/screenshots/\TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse\2020_04_03_07_59_PM\TestStep02_VerifyUserNavigateToAllTabsEnglish.jpg]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERSUCCESSFULLYLOGOUTFROMTHEAPPLICATION *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[The application url is :- https://services.empirix.com/]]>
+    </line>
+    <line>
+      <![CDATA[The test browser is :- chrome]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTSTEP01_USERSUBMITLOGINDETAILS *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Save Image File Path : C:\Users\NitishSajnani\Desktop\Emprix\Emprix\./target/screenshots/\TC004_VerifyClientDetails\2020_04_03_08_01_PM\TestStep01_UserSubmitLoginDetails.jpg]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERSUCCESSFULLYLOGOUTFROMTHEAPPLICATION *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="66008" started-at="2020-04-03T10:38:39Z" finished-at="2020-04-03T10:39:45Z">
+  <suite name="Test Set" duration-ms="819770" started-at="2020-04-03T14:19:00Z" finished-at="2020-04-03T14:32:40Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="66008" started-at="2020-04-03T10:38:39Z" finished-at="2020-04-03T10:39:45Z">
+    <test name="Login into application" duration-ms="72518" started-at="2020-04-03T14:19:00Z" finished-at="2020-04-03T14:20:12Z">
       <class name="com.empirix.tests.TC001_LoginIntoApplication">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="beforeMethod" is-config="true" duration-ms="25458" started-at="2020-04-03T16:08:39Z" finished-at="2020-04-03T16:09:05Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="beforeMethod" is-config="true" duration-ms="26548" started-at="2020-04-03T19:49:00Z" finished-at="2020-04-03T19:49:26Z">
           <reporter-output>
             <line>
               <![CDATA[chrome]]>
@@ -71,11 +206,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="init()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="init" is-config="true" duration-ms="4" started-at="2020-04-03T16:09:05Z" finished-at="2020-04-03T16:09:05Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="init" is-config="true" duration-ms="7" started-at="2020-04-03T19:49:26Z" finished-at="2020-04-03T19:49:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2020-04-03T16:09:05Z" finished-at="2020-04-03T16:09:05Z">
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2020-04-03T19:49:26Z" finished-at="2020-04-03T19:49:26Z">
           <params>
             <param index="0">
               <value>
@@ -95,27 +230,27 @@
             </line>
           </reporter-output>
         </test-method> <!-- handleTestMethodName -->
-        <test-method status="PASS" signature="TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="TestStep01_UserSubmitLoginDetails" duration-ms="13667" started-at="2020-04-03T16:09:05Z" finished-at="2020-04-03T16:09:19Z">
+        <test-method status="PASS" signature="TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="TestStep01_UserSubmitLoginDetails" duration-ms="12791" started-at="2020-04-03T19:49:26Z" finished-at="2020-04-03T19:49:39Z">
           <reporter-output>
             <line>
               <![CDATA[[Action]:User enters username QA_traininguser15]]>
             </line>
             <line>
-              <![CDATA[User enters password Empirix!]]>
+              <![CDATA[[Action]:User enters password Empirix!]]>
             </line>
             <line>
-              <![CDATA[TEST PASSED: element btn_submit is displayed.]]>
+              <![CDATA[Element btn_submit is displayed.]]>
             </line>
             <line>
               <![CDATA[User clicks on submit button]]>
             </line>
           </reporter-output>
         </test-method> <!-- TestStep01_UserSubmitLoginDetails -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-03T16:09:19Z" finished-at="2020-04-03T16:09:19Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-03T19:49:39Z" finished-at="2020-04-03T19:49:39Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TestStep01_UserSubmitLoginDetails status=SUCCESS method=TC001_LoginIntoApplication.TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d] output=[Action]:User enters username QA_traininguser15]]]>
+                <![CDATA[[TestResult name=TestStep01_UserSubmitLoginDetails status=SUCCESS method=TC001_LoginIntoApplication.TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac] output=[Action]:User enters username QA_traininguser15]]]>
               </value>
             </param>
             <param index="1">
@@ -127,7 +262,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T16:09:19Z" finished-at="2020-04-03T16:09:19Z">
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2020-04-03T19:49:39Z" finished-at="2020-04-03T19:49:39Z">
           <params>
             <param index="0">
               <value>
@@ -147,13 +282,13 @@
             </line>
           </reporter-output>
         </test-method> <!-- handleTestMethodName -->
-        <test-method status="PASS" signature="TestStep02_VerifyUserSuccessfullyLogin()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="TestStep02_VerifyUserSuccessfullyLogin" duration-ms="26847" started-at="2020-04-03T16:09:19Z" finished-at="2020-04-03T16:09:45Z">
+        <test-method status="PASS" signature="TestStep02_VerifyUserSuccessfullyLogin()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="TestStep02_VerifyUserSuccessfullyLogin" duration-ms="33065" started-at="2020-04-03T19:49:39Z" finished-at="2020-04-03T19:50:12Z">
           <reporter-output>
             <line>
               <![CDATA[User clicks on Menu button]]>
             </line>
             <line>
-              <![CDATA[TEST PASSED: element btn_logout is displayed.]]>
+              <![CDATA[Element btn_logout is displayed.]]>
             </line>
             <line>
               <![CDATA[Logout button is present for the user]]>
@@ -163,11 +298,11 @@
             </line>
           </reporter-output>
         </test-method> <!-- TestStep02_VerifyUserSuccessfullyLogin -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-03T16:09:45Z" finished-at="2020-04-03T16:09:45Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-03T19:50:12Z" finished-at="2020-04-03T19:50:12Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TestStep02_VerifyUserSuccessfullyLogin status=SUCCESS method=TC001_LoginIntoApplication.TestStep02_VerifyUserSuccessfullyLogin()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d] output=User clicks on Menu button]]]>
+                <![CDATA[[TestResult name=TestStep02_VerifyUserSuccessfullyLogin status=SUCCESS method=TC001_LoginIntoApplication.TestStep02_VerifyUserSuccessfullyLogin()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac] output=User clicks on Menu button]]]>
               </value>
             </param>
             <param index="1">
@@ -179,11 +314,924 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="close_Test_Session" is-config="true" duration-ms="0" started-at="2020-04-03T16:09:45Z" finished-at="2020-04-03T16:09:45Z">
+        <test-method status="PASS" signature="TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication" duration-ms="73" started-at="2020-04-03T19:50:12Z" finished-at="2020-04-03T19:50:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[User gets logout from the application]]>
+            </line>
+            <line>
+              <![CDATA[User is successfully logout from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T19:50:12Z" finished-at="2020-04-03T19:50:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC001_LoginIntoApplication.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERSUCCESSFULLYLOGOUTFROMTHEAPPLICATION *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-03T19:50:12Z" finished-at="2020-04-03T19:50:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication status=SUCCESS method=TC001_LoginIntoApplication.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac] output=User gets logout from the application]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC001_LoginIntoApplication.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@f6c48ac]" name="close_Test_Session" is-config="true" duration-ms="1" started-at="2020-04-03T19:50:12Z" finished-at="2020-04-03T19:50:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close_Test_Session -->
       </class> <!-- com.empirix.tests.TC001_LoginIntoApplication -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Login into application -->
+    <test name="Able to switch language" duration-ms="407868" started-at="2020-04-03T14:20:12Z" finished-at="2020-04-03T14:27:00Z">
+      <class name="com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="beforeMethod" is-config="true" duration-ms="26092" started-at="2020-04-03T19:50:12Z" finished-at="2020-04-03T19:50:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+            <line>
+              <![CDATA[The application url is :- https://services.empirix.com/]]>
+            </line>
+            <line>
+              <![CDATA[The test browser is :- chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="init" is-config="true" duration-ms="7" started-at="2020-04-03T19:50:38Z" finished-at="2020-04-03T19:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T19:50:38Z" finished-at="2020-04-03T19:50:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage.TestStep01_UserSubmitLoginDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTSTEP01_USERSUBMITLOGINDETAILS *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="TestStep01_UserSubmitLoginDetails" duration-ms="13130" started-at="2020-04-03T19:50:38Z" finished-at="2020-04-03T19:50:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[Action]:User enters username QA_traininguser15]]>
+            </line>
+            <line>
+              <![CDATA[[Action]:User enters password Empirix!]]>
+            </line>
+            <line>
+              <![CDATA[Element btn_submit is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[User clicks on submit button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestStep01_UserSubmitLoginDetails -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="afterMethod" is-config="true" duration-ms="2" started-at="2020-04-03T19:50:52Z" finished-at="2020-04-03T19:50:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStep01_UserSubmitLoginDetails status=SUCCESS method=TC002_VerifyUserAbleToSwitchAppLanguage.TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225] output=[Action]:User enters username QA_traininguser15]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage.TestStep01_UserSubmitLoginDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2020-04-03T19:50:52Z" finished-at="2020-04-03T19:50:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage.TestStep02_VerifyUserSuccessfullyChangeLanguageToJapanese()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERSUCCESSFULLYCHANGELANGUAGETOJAPANESE *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="FAIL" signature="TestStep02_VerifyUserSuccessfullyChangeLanguageToJapanese()[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="TestStep02_VerifyUserSuccessfullyChangeLanguageToJapanese" duration-ms="362503" started-at="2020-04-03T19:50:52Z" finished-at="2020-04-03T19:56:54Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at org.openqa.selenium.remote.RemoteWebElement.isDisplayed(RemoteWebElement.java:329)
+	at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+	at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+	at com.empirix.utilities.SeleniumWait.waitForElementToBeVisible(SeleniumWait.java:59)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:67)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:45)
+	at com.empirix.actions.LoginPageActions.verifyLanguageChangeToJapanese(LoginPageActions.java:91)
+	at com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage.TestStep02_VerifyUserSuccessfullyChangeLanguageToJapanese(TC002_VerifyUserAbleToSwitchAppLanguage.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+            <line>
+              <![CDATA[User clicks on Menu button]]>
+            </line>
+            <line>
+              <![CDATA[[Action]:User selects the language japanese]]>
+            </line>
+            <line>
+              <![CDATA[Alert handled...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestStep02_VerifyUserSuccessfullyChangeLanguageToJapanese -->
+        <test-method status="FAIL" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-04-03T19:56:54Z" finished-at="2020-04-03T19:56:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStep02_VerifyUserSuccessfullyChangeLanguageToJapanese status=FAILURE method=TC002_VerifyUserAbleToSwitchAppLanguage.TestStep02_VerifyUserSuccessfullyChangeLanguageToJapanese()[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225] output=User clicks on Menu button]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage.TestStep02_VerifyUserSuccessfullyChangeLanguageToJapanese()]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[chrome not reachable
+  (Session info: chrome=80.0.3987.149)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'DESKTOP-3NQPI56', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\NITISH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 80.0.3987.149, webStorageEnabled: true}
+Session ID: 6cd544a428185c982735b7b848531841]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=80.0.3987.149)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'DESKTOP-3NQPI56', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\NITISH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 80.0.3987.149, webStorageEnabled: true}
+Session ID: 6cd544a428185c982735b7b848531841
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:287)
+	at com.empirix.utilities.TakeScreenshot.takeScreenShotOnException(TakeScreenshot.java:141)
+	at com.empirix.tests.BaseTest.afterMethod(BaseTest.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:707)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T19:57:00Z" finished-at="2020-04-03T19:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="SKIP" signature="TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication" duration-ms="2" started-at="2020-04-03T19:57:00Z" finished-at="2020-04-03T19:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication -->
+        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-04-03T19:57:00Z" finished-at="2020-04-03T19:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T19:57:00Z" finished-at="2020-04-03T19:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="SKIP" signature="TestStep03_VerifyUserSuccessfullyChangeLanguageToEnglish()[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="TestStep03_VerifyUserSuccessfullyChangeLanguageToEnglish" duration-ms="2" started-at="2020-04-03T19:57:00Z" finished-at="2020-04-03T19:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStep03_VerifyUserSuccessfullyChangeLanguageToEnglish -->
+        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-04-03T19:57:00Z" finished-at="2020-04-03T19:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage@59494225]" name="close_Test_Session" is-config="true" duration-ms="1" started-at="2020-04-03T19:57:00Z" finished-at="2020-04-03T19:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Test_Session -->
+      </class> <!-- com.empirix.tests.TC002_VerifyUserAbleToSwitchAppLanguage -->
+    </test> <!-- Able to switch language -->
+    <test name="Able to access all tabs" duration-ms="178273" started-at="2020-04-03T14:27:00Z" finished-at="2020-04-03T14:29:58Z">
+      <class name="com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="beforeMethod" is-config="true" duration-ms="11163" started-at="2020-04-03T19:57:00Z" finished-at="2020-04-03T19:57:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+            <line>
+              <![CDATA[The application url is :- https://services.empirix.com/]]>
+            </line>
+            <line>
+              <![CDATA[The test browser is :- chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="init" is-config="true" duration-ms="3" started-at="2020-04-03T19:57:11Z" finished-at="2020-04-03T19:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T19:57:11Z" finished-at="2020-04-03T19:57:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep01_UserSubmitLoginDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTSTEP01_USERSUBMITLOGINDETAILS *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="FAIL" signature="TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="TestStep01_UserSubmitLoginDetails" duration-ms="60072" started-at="2020-04-03T19:57:11Z" finished-at="2020-04-03T19:58:11Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[FAILED: Element 'inp_username' not found on the LoginPage !!!]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: FAILED: Element 'inp_username' not found on the LoginPage !!!
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:69)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:45)
+	at com.empirix.actions.LoginPageActions.enterSignInDetails(LoginPageActions.java:49)
+	at com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep01_UserSubmitLoginDetails(TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStep01_UserSubmitLoginDetails -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="afterMethod" is-config="true" duration-ms="1865" started-at="2020-04-03T19:58:11Z" finished-at="2020-04-03T19:58:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStep01_UserSubmitLoginDetails status=FAILURE method=TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep01_UserSubmitLoginDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Save Image File Path : C:\Users\NitishSajnani\Desktop\Emprix\Emprix\./target/screenshots/\TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse\2020_04_03_07_58_PM\TestStep01_UserSubmitLoginDetails.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2020-04-03T19:58:13Z" finished-at="2020-04-03T19:58:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserNavigateToAllTabsEnglish()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERNAVIGATETOALLTABSENGLISH *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="FAIL" signature="TestStep02_VerifyUserNavigateToAllTabsEnglish()[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="TestStep02_VerifyUserNavigateToAllTabsEnglish" duration-ms="60023" started-at="2020-04-03T19:58:13Z" finished-at="2020-04-03T19:59:13Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[FAILED: Element 'tab_dashboard' not found on the LoginPage !!!]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: FAILED: Element 'tab_dashboard' not found on the LoginPage !!!
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:69)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:45)
+	at com.empirix.actions.LoginPageActions.verifyTab(LoginPageActions.java:101)
+	at com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserNavigateToAllTabsEnglish(TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStep02_VerifyUserNavigateToAllTabsEnglish -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="afterMethod" is-config="true" duration-ms="1286" started-at="2020-04-03T19:59:13Z" finished-at="2020-04-03T19:59:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStep02_VerifyUserNavigateToAllTabsEnglish status=FAILURE method=TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserNavigateToAllTabsEnglish()[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserNavigateToAllTabsEnglish()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Save Image File Path : C:\Users\NitishSajnani\Desktop\Emprix\Emprix\./target/screenshots/\TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse\2020_04_03_07_59_PM\TestStep02_VerifyUserNavigateToAllTabsEnglish.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T19:59:15Z" finished-at="2020-04-03T19:59:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERSUCCESSFULLYLOGOUTFROMTHEAPPLICATION *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="FAIL" signature="TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication" duration-ms="37806" started-at="2020-04-03T19:59:15Z" finished-at="2020-04-03T19:59:52Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[FAILED: Element 'btn_logout' not found on the LoginPage !!!]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: FAILED: Element 'btn_logout' not found on the LoginPage !!!
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:69)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:45)
+	at com.empirix.actions.LoginPageActions.clickOnLogout(LoginPageActions.java:37)
+	at com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication(TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication -->
+        <test-method status="FAIL" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-04-03T19:59:52Z" finished-at="2020-04-03T19:59:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication status=FAILURE method=TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[chrome not reachable
+  (Session info: chrome=80.0.3987.149)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'DESKTOP-3NQPI56', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\NITISH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 80.0.3987.149, webStorageEnabled: true}
+Session ID: 8bfa5cccf9558219b40c556e563e881c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=80.0.3987.149)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'DESKTOP-3NQPI56', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\NITISH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 80.0.3987.149, webStorageEnabled: true}
+Session ID: 8bfa5cccf9558219b40c556e563e881c
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:287)
+	at com.empirix.utilities.TakeScreenshot.takeScreenShotOnException(TakeScreenshot.java:141)
+	at com.empirix.tests.BaseTest.afterMethod(BaseTest.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:707)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T19:59:58Z" finished-at="2020-04-03T19:59:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="SKIP" signature="TestStep03_VerifyUserNavigateToAllTabsJapanese()[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="TestStep03_VerifyUserNavigateToAllTabsJapanese" duration-ms="1" started-at="2020-04-03T19:59:58Z" finished-at="2020-04-03T19:59:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStep03_VerifyUserNavigateToAllTabsJapanese -->
+        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-04-03T19:59:58Z" finished-at="2020-04-03T19:59:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@5702b3b1]" name="close_Test_Session" is-config="true" duration-ms="1" started-at="2020-04-03T19:59:58Z" finished-at="2020-04-03T19:59:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Test_Session -->
+      </class> <!-- com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse -->
+    </test> <!-- Able to access all tabs -->
+    <test name="Verify client details" duration-ms="160973" started-at="2020-04-03T14:29:59Z" finished-at="2020-04-03T14:32:40Z">
+      <class name="com.empirix.tests.TC004_VerifyClientDetails">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="beforeMethod" is-config="true" duration-ms="43157" started-at="2020-04-03T19:59:59Z" finished-at="2020-04-03T20:00:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+            <line>
+              <![CDATA[The application url is :- https://services.empirix.com/]]>
+            </line>
+            <line>
+              <![CDATA[The test browser is :- chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="init" is-config="true" duration-ms="7" started-at="2020-04-03T20:00:42Z" finished-at="2020-04-03T20:00:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="FAIL" signature="TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="TestStep01_UserSubmitLoginDetails" duration-ms="60054" started-at="2020-04-03T20:00:42Z" finished-at="2020-04-03T20:01:42Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[FAILED: Element 'inp_username' not found on the LoginPage !!!]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: FAILED: Element 'inp_username' not found on the LoginPage !!!
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:69)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:45)
+	at com.empirix.actions.LoginPageActions.enterSignInDetails(LoginPageActions.java:49)
+	at com.empirix.tests.TC004_VerifyClientDetails.TestStep01_UserSubmitLoginDetails(TC004_VerifyClientDetails.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStep01_UserSubmitLoginDetails -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T20:00:42Z" finished-at="2020-04-03T20:00:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC004_VerifyClientDetails.TestStep01_UserSubmitLoginDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTSTEP01_USERSUBMITLOGINDETAILS *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="afterMethod" is-config="true" duration-ms="1520" started-at="2020-04-03T20:01:42Z" finished-at="2020-04-03T20:01:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStep01_UserSubmitLoginDetails status=FAILURE method=TC004_VerifyClientDetails.TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC004_VerifyClientDetails.TestStep01_UserSubmitLoginDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Save Image File Path : C:\Users\NitishSajnani\Desktop\Emprix\Emprix\./target/screenshots/\TC004_VerifyClientDetails\2020_04_03_08_01_PM\TestStep01_UserSubmitLoginDetails.jpg]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T20:01:43Z" finished-at="2020-04-03T20:01:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC004_VerifyClientDetails.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERSUCCESSFULLYLOGOUTFROMTHEAPPLICATION *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="FAIL" signature="TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication" duration-ms="56210" started-at="2020-04-03T20:01:43Z" finished-at="2020-04-03T20:02:39Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[FAILED: Element 'btn_logout' not found on the LoginPage !!!]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: FAILED: Element 'btn_logout' not found on the LoginPage !!!
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:69)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:45)
+	at com.empirix.actions.LoginPageActions.clickOnLogout(LoginPageActions.java:37)
+	at com.empirix.tests.TC004_VerifyClientDetails.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication(TC004_VerifyClientDetails.java:36)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication -->
+        <test-method status="FAIL" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-04-03T20:02:39Z" finished-at="2020-04-03T20:02:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication status=FAILURE method=TC004_VerifyClientDetails.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC004_VerifyClientDetails.TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication()]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchWindowException">
+            <message>
+              <![CDATA[no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.149)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'DESKTOP-3NQPI56', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\NITISH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 80.0.3987.149, webStorageEnabled: true}
+Session ID: 9f9a17df0be9a2f8806c0bd45d7b1799]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=80.0.3987.149)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'DESKTOP-3NQPI56', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\NITISH~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 80.0.3987.149, webStorageEnabled: true}
+Session ID: 9f9a17df0be9a2f8806c0bd45d7b1799
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+	at org.openqa.selenium.remote.RemoteWebDriver.getCurrentUrl(RemoteWebDriver.java:287)
+	at com.empirix.utilities.TakeScreenshot.takeScreenShotOnException(TakeScreenshot.java:141)
+	at com.empirix.tests.BaseTest.afterMethod(BaseTest.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:707)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T20:02:40Z" finished-at="2020-04-03T20:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="SKIP" signature="TestStep02_VerifyUserSuccessfullyPrintClientDetails()[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="TestStep02_VerifyUserSuccessfullyPrintClientDetails" duration-ms="1" started-at="2020-04-03T20:02:40Z" finished-at="2020-04-03T20:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStep02_VerifyUserSuccessfullyPrintClientDetails -->
+        <test-method status="SKIP" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-04-03T20:02:40Z" finished-at="2020-04-03T20:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:com.empirix.tests.TC004_VerifyClientDetails@6adede5]" name="close_Test_Session" is-config="true" duration-ms="0" started-at="2020-04-03T20:02:40Z" finished-at="2020-04-03T20:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Test_Session -->
+      </class> <!-- com.empirix.tests.TC004_VerifyClientDetails -->
+    </test> <!-- Verify client details -->
+  </suite> <!-- Test Set -->
 </testng-results>

@@ -2,12 +2,7 @@ package com.empirix.utilities;
 
 import java.util.Properties;
 
-/**
- * This is the utility class for data Read/Write
- *
- * @author QAIT
- *
- */
+
 public class ConfigPropertyReader {
 
     private static String defaultConfigFile = "./Config.properties";

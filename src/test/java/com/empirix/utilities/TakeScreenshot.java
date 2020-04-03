@@ -26,10 +26,6 @@ import ru.yandex.qatools.ashot.AShot;
 import ru.yandex.qatools.ashot.Screenshot;
 import ru.yandex.qatools.ashot.screentaker.ViewportPastingStrategy;
 
-/**
- * @author QAIT
- * 
- */
 public class TakeScreenshot {
 
   WebDriver driver;

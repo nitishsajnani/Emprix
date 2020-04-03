@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Default test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>2/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>1/2/0</td>
 </tr><tr>
-<td>Started on:</td><td>Fri Apr 03 16:08:39 IST 2020</td>
+<td>Started on:</td><td>Fri Apr 03 19:33:53 IST 2020</td>
 </tr>
-<tr><td>Total time:</td><td>66 seconds (66008 ms)</td>
+<tr><td>Total time:</td><td>230 seconds (230936 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,6 +67,146 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep01_UserSubmitLoginDetails()'><b>TestStep01_UserSubmitLoginDetails</b><br>Test class: com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse</td>
+<td><div><pre>java.lang.AssertionError: FAILED: Element &apos;inp_username&apos; not found on the LoginPage !!!
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:69)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:45)
+	at com.empirix.actions.LoginPageActions.enterSignInDetails(LoginPageActions.java:42)
+	at com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep01_UserSubmitLoginDetails(TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1620823990", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1620823990'><pre>java.lang.AssertionError: FAILED: Element &apos;inp_username&apos; not found on the LoginPage !!!
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:69)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:45)
+	at com.empirix.actions.LoginPageActions.enterSignInDetails(LoginPageActions.java:42)
+	at com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep01_UserSubmitLoginDetails(TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</pre></div></td>
+<td>60</td>
+<td>com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@4dfa3a9d</td></tr>
+<tr>
+<td title='com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserNavigateToAllTabsEnglish()'><b>TestStep02_VerifyUserNavigateToAllTabsEnglish</b><br>Test class: com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse</td>
+<td><div><pre>java.lang.AssertionError: FAILED: Element &apos;tab_alerts&apos; not found on the LoginPage !!!
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:69)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:45)
+	at com.empirix.actions.LoginPageActions.verifyTabs(LoginPageActions.java:94)
+	at com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserNavigateToAllTabsEnglish(TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1344697180", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1344697180'><pre>java.lang.AssertionError: FAILED: Element &apos;tab_alerts&apos; not found on the LoginPage !!!
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:69)
+	at com.empirix.getpageobjects.GetPage.element(GetPage.java:45)
+	at com.empirix.actions.LoginPageActions.verifyTabs(LoginPageActions.java:94)
+	at com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep02_VerifyUserNavigateToAllTabsEnglish(TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+</pre></div></td>
+<td>60</td>
+<td>com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@4dfa3a9d</td></tr>
+</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -75,35 +215,17 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.empirix.tests.TC001_LoginIntoApplication.TestStep01_UserSubmitLoginDetails()'><b>TestStep01_UserSubmitLoginDetails</b><br>Test class: com.empirix.tests.TC001_LoginIntoApplication<br/>
-<a href="#Output-1594873248" onClick='toggleBox("Output-1594873248", this, "Show output", "Hide output");'>Show output</a>
+<td title='com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse.TestStep03_VerifyUserSuccessfullyChangeLanguageToEnglish()'><b>TestStep03_VerifyUserSuccessfullyChangeLanguageToEnglish</b><br>Test class: com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse<br/>
+<a href="#Output-552937500" onClick='toggleBox("Output-552937500", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1594873248" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1594873248">
-[Action]:User enters username QA_traininguser15<br/>
-User enters password Empirix!<br/>
-TEST PASSED: element btn_submit is displayed.<br/>
-User clicks on submit button<br/>
+<a href="#Output-552937500" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-552937500">
+Application language has been changed to Englsh<br/>
 </div>
 </td>
 <td></td>
-<td>13</td>
-<td>com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d</td></tr>
-<tr>
-<td title='com.empirix.tests.TC001_LoginIntoApplication.TestStep02_VerifyUserSuccessfullyLogin()'><b>TestStep02_VerifyUserSuccessfullyLogin</b><br>Test class: com.empirix.tests.TC001_LoginIntoApplication<br/>
-<a href="#Output-2085745483" onClick='toggleBox("Output-2085745483", this, "Show output", "Hide output");'>Show output</a>
-
-<a href="#Output-2085745483" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-2085745483">
-User clicks on Menu button<br/>
-TEST PASSED: element btn_logout is displayed.<br/>
-Logout button is present for the user<br/>
-User is successfully login into the application<br/>
-</div>
-</td>
-<td></td>
-<td>26</td>
-<td>com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d</td></tr>
+<td>0</td>
+<td>com.empirix.tests.TC003_VerifyUserAbleToAccessAllTabsInEnglishAndJapanse@4dfa3a9d</td></tr>
 </table><p>
 </body>
 </html>

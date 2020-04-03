@@ -1,17 +1,14 @@
 package com.empirix.tests;
 
-import com.empirix.tests.BaseTest;
-
 import static com.empirix.utilities.YamlReader.getYamlValue;
 
 import org.testng.Reporter;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class TC001_LoginIntoApplication extends BaseTest {
-
-	public TC001_LoginIntoApplication(String baseUrl) {
-		super("profile.baseUrl");
+public class TC004_VerifyClientDetails extends BaseTest  {	
+	public TC004_VerifyClientDetails(String baseUrl){
+	super("profile.baseUrl");
 	}
 
 	String username, password;
@@ -27,15 +24,16 @@ public class TC001_LoginIntoApplication extends BaseTest {
 		EMP.loginPage.clickOnSubmitButton();
 	}
 	@Test
-	public void TestStep02_VerifyUserSuccessfullyLogin() {
+	public void TestStep02_VerifyUserSuccessfullyPrintClientDetails() {
 		EMP.loginPage.clickOnMenuButton();
-		EMP.loginPage.verifyLogoutButton();
-		Reporter.log("User is successfully login into the application",true);
-	}
+		EMP.loginPage.clickOnclient();
+		EMP.loginPage.clientDetailsPrint();
+		Reporter.log("User is successfully printed the client's details",true);
 	
+	}
 	@Test
 	public void TestStep02_VerifyUserSuccessfullyLogoutfromtheApplication() {
 		EMP.loginPage.clickOnLogout();
 		Reporter.log("User is successfully logout from the application",true);
 	}
-	}
+}

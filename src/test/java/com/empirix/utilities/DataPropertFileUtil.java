@@ -10,7 +10,7 @@ import java.util.Properties;
 /**
  * This is the utility class for data Read/Write
  *
- * @author QAIT
+ *
  *
  */
 public class DataPropertFileUtil {
