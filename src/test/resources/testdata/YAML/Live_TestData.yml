@@ -1,4 +1,7 @@
 profile:
  baseUrl: https://services.empirix.com/
 
- 
+HomePage:  
+ LoginDetails:
+  username: "QA_traininguser15"
+  password: "Empirix!"

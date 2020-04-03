@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[chrome]]>
+    </line>
+    <line>
+      <![CDATA[The application url is :- https://services.empirix.com/]]>
+    </line>
+    <line>
+      <![CDATA[The test browser is :- chrome]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTSTEP01_USERSUBMITLOGINDETAILS *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[[Action]:User enters username QA_traininguser15]]>
+    </line>
+    <line>
+      <![CDATA[User enters password Empirix!]]>
+    </line>
+    <line>
+      <![CDATA[TEST PASSED: element btn_submit is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[User clicks on submit button]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERSUCCESSFULLYLOGIN *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[User clicks on Menu button]]>
+    </line>
+    <line>
+      <![CDATA[TEST PASSED: element btn_logout is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Logout button is present for the user]]>
+    </line>
+    <line>
+      <![CDATA[User is successfully login into the application]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66008" started-at="2020-04-03T10:38:39Z" finished-at="2020-04-03T10:39:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66008" started-at="2020-04-03T10:38:39Z" finished-at="2020-04-03T10:39:45Z">
+      <class name="com.empirix.tests.TC001_LoginIntoApplication">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="beforeMethod" is-config="true" duration-ms="25458" started-at="2020-04-03T16:08:39Z" finished-at="2020-04-03T16:09:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[chrome]]>
+            </line>
+            <line>
+              <![CDATA[The application url is :- https://services.empirix.com/]]>
+            </line>
+            <line>
+              <![CDATA[The test browser is :- chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="init" is-config="true" duration-ms="4" started-at="2020-04-03T16:09:05Z" finished-at="2020-04-03T16:09:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2020-04-03T16:09:05Z" finished-at="2020-04-03T16:09:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC001_LoginIntoApplication.TestStep01_UserSubmitLoginDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTSTEP01_USERSUBMITLOGINDETAILS *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="TestStep01_UserSubmitLoginDetails" duration-ms="13667" started-at="2020-04-03T16:09:05Z" finished-at="2020-04-03T16:09:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[[Action]:User enters username QA_traininguser15]]>
+            </line>
+            <line>
+              <![CDATA[User enters password Empirix!]]>
+            </line>
+            <line>
+              <![CDATA[TEST PASSED: element btn_submit is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[User clicks on submit button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestStep01_UserSubmitLoginDetails -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-03T16:09:19Z" finished-at="2020-04-03T16:09:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStep01_UserSubmitLoginDetails status=SUCCESS method=TC001_LoginIntoApplication.TestStep01_UserSubmitLoginDetails()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d] output=[Action]:User enters username QA_traininguser15]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC001_LoginIntoApplication.TestStep01_UserSubmitLoginDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2020-04-03T16:09:19Z" finished-at="2020-04-03T16:09:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC001_LoginIntoApplication.TestStep02_VerifyUserSuccessfullyLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TESTSTEP02_VERIFYUSERSUCCESSFULLYLOGIN *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="TestStep02_VerifyUserSuccessfullyLogin()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="TestStep02_VerifyUserSuccessfullyLogin" duration-ms="26847" started-at="2020-04-03T16:09:19Z" finished-at="2020-04-03T16:09:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[User clicks on Menu button]]>
+            </line>
+            <line>
+              <![CDATA[TEST PASSED: element btn_logout is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Logout button is present for the user]]>
+            </line>
+            <line>
+              <![CDATA[User is successfully login into the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestStep02_VerifyUserSuccessfullyLogin -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.reflect.Method)[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-03T16:09:45Z" finished-at="2020-04-03T16:09:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TestStep02_VerifyUserSuccessfullyLogin status=SUCCESS method=TC001_LoginIntoApplication.TestStep02_VerifyUserSuccessfullyLogin()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d] output=User clicks on Menu button]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.empirix.tests.TC001_LoginIntoApplication.TestStep02_VerifyUserSuccessfullyLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:com.empirix.tests.TC001_LoginIntoApplication@4dfa3a9d]" name="close_Test_Session" is-config="true" duration-ms="0" started-at="2020-04-03T16:09:45Z" finished-at="2020-04-03T16:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Test_Session -->
+      </class> <!-- com.empirix.tests.TC001_LoginIntoApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
