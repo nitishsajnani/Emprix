@@ -46,7 +46,7 @@ public class BaseTest {
 
 @AfterClass(alwaysRun=true)
 	public void close_Test_Session() throws IOException {
-		// EMP.closeBrowserSession();
+		 EMP.closeBrowserSession();
 	}
 
 
